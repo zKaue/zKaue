@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaue!  
+💻 Desenvolvedor  
 
-<!--
-**zKaue/zKaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim  
+- 🎯 Atualmente estudando **Java**  
+- 📚 Aprimorando minhas habilidades em **banco de dados e estrutura de dados**  
+- ⚡ Desenvolvi um **jogo de tabuleiro em C** e um **sistema de apostas da Lotofácil com interface em Java Swing**  
+- 💡 Buscando oportunidades para crescer como **desenvolvedor**  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias  
+🟢 **Linguagens:** `Java`, `C`  
+🟠 **Banco de Dados:** `MySQL`, `Arquivos .txt`  
+🔵 **Ferramentas:** `Git`, `Eclipse`, `IntelliJ`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato  
+📧 kaue.silveira.423@gmail.com  
+📱 (41) 99837-6875  
+💼 [LinkedIn](https://www.linkedin.com/in/kaue-silveira/)
