@@ -29,7 +29,7 @@ No **SafeStop**, apliquei na prática os conceitos de desenvolvimento enterprise
 
 ### 📊 GitHub Stats
 
-![Kaue's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula)
+![Kaue's GitHub stats](https://github-readme-stats.vercel.app/api?username=zKaue&show_icons=true&theme=dracula)
 
 ---
 
