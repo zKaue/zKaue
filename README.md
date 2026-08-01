@@ -10,9 +10,9 @@ Atualmente estou focado no ecossistema **Spring**, construindo aplicações web 
 
 * **Linguagens:** Java (Foco principal), C
 * **Backend:** Spring Boot, Spring Security, Spring Data JPA
-* **Banco de Dados:** MySQL, H2 (ou PostgreSQL - edite aqui)
+* **Banco de Dados:** MySQL, H2 e PostgreSQL
 * **Frontend:** Thymeleaf, HTML5, CSS3, JavaScript
-* **Ferramentas:** Git, Maven, IntelliJ IDEA, Lombok, Docker (se usar)
+* **Ferramentas:** Git, Maven, IntelliJ IDEA, Lombok, Docker
 
 ---
 
